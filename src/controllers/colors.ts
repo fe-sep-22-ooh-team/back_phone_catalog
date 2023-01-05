@@ -1,20 +1,21 @@
 import { Request, Response } from 'express';
 import * as colorsService from '../services/colors';
 
-export const getAll = async (req: Request, res: Response) => {
-  const colors = await colorsService.getAll();
+export const getAll = async(req: Request, res: Response) => {
+    const colors = await colorsService.getAll();
 
-  res.send(colors);
+    res.send(colors);
 };
 
-export const getOne = async (req: Request, res: Response) => {
-  const { colorId } = req.params;
-  const foundColor = await colorsService.getColorById(+colorId);
+export const getOne = async(req: Request, res: Response) => {
+    const { colorId } = req.params;
+    const foundColor = await colorsService.getColorById(+colorId);
 
-  if (!foundColor) {
-    res.sendStatus(404);
-    return;
-  }
+    if (!foundColor) {
+        res.sendStatus(404);
 
-  res.send(foundColor);
-}
+        return;
+    }
+
+    res.send(foundColor);
+};

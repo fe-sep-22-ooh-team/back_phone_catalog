@@ -1,8 +1,8 @@
 // id, name, colorId
 
-import {sequelize} from "../utils/db";
-import {DataTypes} from "sequelize";
-import {Color} from "./Color";
+import { sequelize } from '../utils/db';
+import { DataTypes } from 'sequelize';
+import { Color } from './Color';
 
 export const Good = sequelize.define('good', {
     id: {
@@ -20,7 +20,7 @@ export const Good = sequelize.define('good', {
         field: 'color_id',
         type: DataTypes.INTEGER,
         allowNull: false,
-    }
+    },
 }, {
     tableName: 'goods',
 });
@@ -28,4 +28,4 @@ export const Good = sequelize.define('good', {
 Good.belongsTo(Color, {
     foreignKey: 'color_id',
     constraints: false,
-})
+});

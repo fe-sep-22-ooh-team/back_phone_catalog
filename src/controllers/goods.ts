@@ -1,47 +1,50 @@
 import { Request, Response } from 'express';
 import * as goodsService from '../services/goods';
 
-export const getAll = async (req: Request, res: Response) => {
-  const goods = await goodsService.getAll();
+export const getAll = async(req: Request, res: Response) => {
+    const goods = await goodsService.getAll();
 
-  res.send(goods);
-}
+    res.send(goods);
+};
 
-export const getOne = async (req: Request, res: Response) => {
-  const { goodId } = req.params;
-  const foundGood = await goodsService.getGoodById(+goodId);
+export const getOne = async(req: Request, res: Response) => {
+    const { goodId } = req.params;
+    const foundGood = await goodsService.getGoodById(+goodId);
 
-  if (!foundGood) {
-    res.sendStatus(404);
-    return;
-  }
+    if (!foundGood) {
+        res.sendStatus(404);
 
-  res.send(foundGood);
-}
+        return;
+    }
 
-export const add = async (req: Request, res: Response) => {
-  const { name, colorId } = req.body;
+    res.send(foundGood);
+};
 
-  if (!name || !colorId) {
-    res.sendStatus(422);
-    return;
-  }
+export const add = async(req: Request, res: Response) => {
+    const { name, colorId } = req.body;
 
-  const newGood = await goodsService.addGood(name, colorId);
+    if (!name || !colorId) {
+        res.sendStatus(422);
 
-  res.statusCode = 201;
-  res.json(newGood);
-}
+        return;
+    }
 
-export const remove = async (req: Request, res: Response) => {
-  const { goodId } = req.params;
-  const foundGood = await goodsService.getGoodById(+goodId);
+    const newGood = await goodsService.addGood(name, colorId);
 
-  if (!foundGood) {
-    res.sendStatus(404);
-    return;
-  }
+    res.statusCode = 201;
+    res.json(newGood);
+};
 
-  await goodsService.removeGood(+goodId);
-  res.sendStatus(204);
-}
+export const remove = async(req: Request, res: Response) => {
+    const { goodId } = req.params;
+    const foundGood = await goodsService.getGoodById(+goodId);
+
+    if (!foundGood) {
+        res.sendStatus(404);
+
+        return;
+    }
+
+    await goodsService.removeGood(+goodId);
+    res.sendStatus(204);
+};

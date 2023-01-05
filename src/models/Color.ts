@@ -1,7 +1,7 @@
 // id, name
 
-import {sequelize} from "../utils/db";
-import {DataTypes} from "sequelize";
+import { sequelize } from '../utils/db';
+import { DataTypes } from 'sequelize';
 
 export const Color = sequelize.define('color', {
     id: {
@@ -17,4 +17,4 @@ export const Color = sequelize.define('color', {
     },
 }, {
     tableName: 'colors',
-})
+});
