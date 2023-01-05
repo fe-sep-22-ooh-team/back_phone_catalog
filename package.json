@@ -8,8 +8,13 @@
     "build": "./node_modules/.bin/netlify-lambda build src",
     "setup": "ts-node src/setup.ts",
     "ts-check": "tsc --noEmit --lib ES2015 ./src/*.ts",
-    "lint": "eslint ./src/. --ignore-path .gitignore --fix",
+    "format": "prettier --write src/. --gitignore-path .gitignore",
+    "lint": "eslint src/. --ignore-path .gitignore",
+    "fix-style": "npm run format && npm run lint -- --fix",
     "prepare": "husky install"
+  },
+  "lint-staged": {
+    "*.js": "npm run lint"
   },
   "keywords": [],
   "author": "",
@@ -25,6 +30,7 @@
     "@typescript-eslint/parser": "^5.48.0",
     "eslint": "^8.31.0",
     "husky": "^8.0.3",
+    "lint-staged": "^13.1.0",
     "nodemon": "^2.0.20",
     "prettier": "2.8.1",
     "ts-node": "^10.9.1",
