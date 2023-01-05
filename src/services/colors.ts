@@ -1,9 +1,9 @@
-import { Color } from "../models/Color";
+import { Color } from '../models/Color';
 
-export const getAll = async () => {
+export const getAll = async() => {
   return Color.findAll();
-}
+};
 
-export const getColorById = async (colorId: number) => {
+export const getColorById = async(colorId: number) => {
   return Color.findByPk(colorId);
-}
+};
