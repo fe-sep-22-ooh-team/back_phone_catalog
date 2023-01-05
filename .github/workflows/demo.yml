@@ -18,26 +18,19 @@ jobs:
       - name: Starting Node.js 
       
       - uses: actions/checkout@v3
-
       - name: Staring Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
-          
       - name: install modules
         run: npm install
-
       - name: build project
         run: npm run build
-
       - name: setup project
         run: npm run setup
-
       - name: ts-check test
         run: npm run ts-check
-
       - name: formatting test
         run: npm run fix-style
-
       - name: husky code
         run: npm run prepare
