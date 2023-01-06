@@ -7,44 +7,44 @@ export const getAll = async(req: Request, res: Response) => {
   res.send(goods);
 };
 
-export const getOne = async(req: Request, res: Response) => {
-  const { goodId } = req.params;
-  const foundGood = await goodsService.getGoodById(+goodId);
+// export const getOne = async(req: Request, res: Response) => {
+//   const { goodId } = req.params;
+//   const foundGood = await goodsService.getGoodById(+goodId);
 
-  if (!foundGood) {
-    res.sendStatus(404);
+//   if (!foundGood) {
+//     res.sendStatus(404);
 
-    return;
-  }
+//     return;
+//   }
 
-  res.send(foundGood);
-};
+//   res.send(foundGood);
+// };
 
-export const add = async(req: Request, res: Response) => {
-  const { name, colorId } = req.body;
+// export const add = async(req: Request, res: Response) => {
+//   const { name, colorId } = req.body;
 
-  if (!name || !colorId) {
-    res.sendStatus(422);
+//   if (!name || !colorId) {
+//     res.sendStatus(422);
 
-    return;
-  }
+//     return;
+//   }
 
-  const newGood = await goodsService.addGood(name, colorId);
+//   const newGood = await goodsService.addGood(name, colorId);
 
-  res.statusCode = 201;
-  res.json(newGood);
-};
+//   res.statusCode = 201;
+//   res.json(newGood);
+// };
 
-export const remove = async(req: Request, res: Response) => {
-  const { goodId } = req.params;
-  const foundGood = await goodsService.getGoodById(+goodId);
+// export const remove = async(req: Request, res: Response) => {
+//   const { goodId } = req.params;
+//   const foundGood = await goodsService.getGoodById(+goodId);
 
-  if (!foundGood) {
-    res.sendStatus(404);
+//   if (!foundGood) {
+//     res.sendStatus(404);
 
-    return;
-  }
+//     return;
+//   }
 
-  await goodsService.removeGood(+goodId);
-  res.sendStatus(204);
-};
+//   await goodsService.removeGood(+goodId);
+//   res.sendStatus(204);
+// };
