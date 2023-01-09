@@ -33,7 +33,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/img/phones/apple-iphone-xs/silver/',
     additionalImages: [
       'link1',
       'link2',
@@ -74,7 +74,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
     ],
@@ -112,7 +112,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'link1',
       'link2',
@@ -153,7 +153,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'link1',
       'link2',
@@ -194,7 +194,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'link1',
       'link2',
@@ -235,7 +235,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       's-a-add1.phttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
     ],
@@ -273,7 +273,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'link1',
       'link2',
@@ -314,7 +314,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'link1',
       'link2',
@@ -355,7 +355,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'link1',
       'link2',
@@ -396,7 +396,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       's-a-add1.phttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
     ],
@@ -434,7 +434,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'link1',
       'link2',
@@ -475,7 +475,7 @@ const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg power means it can shoot 4K video with extended dynamic rahttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpge and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editihttps://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg tools to play with.',
       },
     ],
-    image: 'https://www.apple.com/v/iphone/home/bj/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_large.jpg',
+    image: 'https://idyllic-lamington-19c8d3.netlify.app/',
     additionalImages: [
       'link1',
       'link2',

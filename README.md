@@ -1,3 +1,13 @@
+**This is a simple API for the [Phone Catalog](https://fe-sep-22-ooh-team.github.io/phone-catalog/) 'Ooh-team'**
+
+[Server DEMO](https://idyllic-lamington-19c8d3.netlify.app/.netlify/functions/server)
+
+## Documentation
+
+GET to /
+
+*Response: phones[].*
+
 ## Available Scripts
 
 In the project directory, you can run:
