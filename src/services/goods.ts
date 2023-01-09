@@ -1,3 +1,5 @@
+'use strict';
+
 import { phones } from '../database/phones';
 
 export const getAll = () => {
