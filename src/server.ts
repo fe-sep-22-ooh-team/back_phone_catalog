@@ -1,8 +1,7 @@
 import express from 'express';
 import cors from 'cors';
-import { router as goodsRouter } from './routes/goods';
-// import * as colorsController from './controllers/colors';
 import serverless from 'serverless-http';
+import { router as goodsRouter } from './routes/goods';
 
 // const router = express.Router();
 const app = express();
