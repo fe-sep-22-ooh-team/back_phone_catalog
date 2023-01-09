@@ -1,8 +1,6 @@
-import express from 'express';
-import * as goodsService from '../services/goods';
+import { Response } from 'express';
+import { RequestWithResult } from '../middleware/pagination';
 
-export const getAll = async(req: express.Request, res: express.Response) => {
-  const goods = await goodsService.getAll();
-
-  res.send(goods);
+export const getAll = (req: RequestWithResult, res: Response) => {
+  res.json(req.paginatedResult);
 };
