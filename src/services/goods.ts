@@ -1,9 +1,9 @@
-// import { Good } from '../models/Good';
+import { Good } from '../models/Good';
 
-const goods: any[] = [];
+// const goods: any[] = [];
 
 export const getAll = async() => {
-  return goods;
+  return Good.findAll();
 };
 
 // export const getGoodById = async(goodId: number) => {

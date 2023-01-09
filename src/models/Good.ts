@@ -2,34 +2,41 @@
 
 import { sequelize } from '../utils/db';
 import { DataTypes } from 'sequelize';
-import { Color } from './Color';
 
-export const Good = sequelize.define(
-  'good',
-  {
-    id: {
-      field: 'id',
-      type: DataTypes.INTEGER,
-      autoIncrement: true,
-      primaryKey: true,
-      allowNull: false,
-    },
-    name: {
-      field: 'name',
-      type: DataTypes.STRING,
-    },
-    colorId: {
-      field: 'color_id',
-      type: DataTypes.INTEGER,
-      allowNull: false,
-    },
+export const Good = sequelize.define('Goods', {
+  id: {
+    type: DataTypes.UUID,
+    primaryKey: true,
+    allowNull: false,
+    defaultValue: DataTypes.UUIDV4,
   },
-  {
-    tableName: 'goods',
+  name: {
+    type: DataTypes.STRING,
+    allowNull: false,
   },
-);
-
-Good.belongsTo(Color, {
-  foreignKey: 'color_id',
-  constraints: false,
+  image: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+  price: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
+  fullPrice: {
+    type: DataTypes.STRING,
+    allowNull: false,
+    field: 'full_price',
+  },
+  year: {
+    type: DataTypes.INTEGER,
+    allowNull: false,
+  },
+  capacity: {
+    type: DataTypes.INTEGER,
+    allowNull: false,
+  },
+  color: {
+    type: DataTypes.STRING,
+    allowNull: false,
+  },
 });
