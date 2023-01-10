@@ -11,7 +11,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "black",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/black/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/black/00.jpg",
       "img/phones/apple-iphone-11/black/01.jpg",
@@ -61,7 +61,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "green",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/green/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/green/00.jpg",
       "img/phones/apple-iphone-11/green/01.jpg",
@@ -111,7 +111,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "purple",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/purple/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/purple/00.jpg",
       "img/phones/apple-iphone-11/purple/01.jpg",
@@ -162,7 +162,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "red",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/red/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/red/00.jpg",
       "img/phones/apple-iphone-11/red/01.jpg",
@@ -213,7 +213,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "white",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/white/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/white/00.jpg",
       "img/phones/apple-iphone-11/white/01.jpg",
@@ -264,7 +264,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "yellow",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/yellow/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/yellow/00.jpg",
       "img/phones/apple-iphone-11/yellow/01.jpg",
@@ -315,7 +315,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "black",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/black/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/black/00.jpg",
       "img/phones/apple-iphone-11/black/01.jpg",
@@ -366,7 +366,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "green",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/green/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/green/00.jpg",
       "img/phones/apple-iphone-11/green/01.jpg",
@@ -417,7 +417,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "purple",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/purple/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/purple/00.jpg",
       "img/phones/apple-iphone-11/purple/01.jpg",
@@ -468,7 +468,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "red",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/red/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/red/00.jpg",
       "img/phones/apple-iphone-11/red/01.jpg",
@@ -519,7 +519,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "white",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/white/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/white/00.jpg",
       "img/phones/apple-iphone-11/white/01.jpg",
@@ -570,7 +570,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "yellow",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/yellow/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/yellow/00.jpg",
       "img/phones/apple-iphone-11/yellow/01.jpg",
@@ -621,7 +621,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "black",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/black/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/black/00.jpg",
       "img/phones/apple-iphone-11/black/01.jpg",
@@ -672,7 +672,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "green",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/green/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/green/00.jpg",
       "img/phones/apple-iphone-11/green/01.jpg",
@@ -723,7 +723,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "purple",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/purple/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/purple/00.jpg",
       "img/phones/apple-iphone-11/purple/01.jpg",
@@ -774,7 +774,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "red",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/red/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/red/00.jpg",
       "img/phones/apple-iphone-11/red/01.jpg",
@@ -825,7 +825,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "white",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/white/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/white/00.jpg",
       "img/phones/apple-iphone-11/white/01.jpg",
@@ -876,7 +876,7 @@ export const phones = [
     colorsAvailable: ["black", "green", "yellow", "white", "purple", "red"],
     color: "yellow",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11/yellow/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11/yellow/00.jpg",
       "img/phones/apple-iphone-11/yellow/01.jpg",
@@ -927,7 +927,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "gold",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro/gold/00.jpg",
       "img/phones/apple-iphone-11-pro/gold/01.jpg",
@@ -976,7 +976,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "midnightgreen",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro/midnightgreen/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro/midnightgreen/00.jpg",
       "img/phones/apple-iphone-11-pro/midnightgreen/01.jpg",
@@ -1026,7 +1026,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "silver",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro/silver/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro/silver/00.jpg",
       "img/phones/apple-iphone-11-pro/silver/01.jpg",
@@ -1075,7 +1075,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "spacegray",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro/spacegray/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro/spacegray/00.jpg",
       "img/phones/apple-iphone-11-pro/spacegray/01.jpg",
@@ -1124,7 +1124,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "gold",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro/gold/00.jpg",
       "img/phones/apple-iphone-11-pro/gold/01.jpg",
@@ -1173,7 +1173,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "midnightgreen",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro/midnightgreen/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro/midnightgreen/00.jpg",
       "img/phones/apple-iphone-11-pro/midnightgreen/01.jpg",
@@ -1223,7 +1223,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "silver",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro/silver/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro/silver/00.jpg",
       "img/phones/apple-iphone-11-pro/silver/01.jpg",
@@ -1272,7 +1272,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "spacegray",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro/spacegray/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro/spacegray/00.jpg",
       "img/phones/apple-iphone-11-pro/spacegray/01.jpg",
@@ -1321,7 +1321,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "gold",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro-max/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro-max/gold/00.jpg",
       "img/phones/apple-iphone-11-pro-max/gold/01.jpg",
@@ -1370,7 +1370,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "midnightgreen",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro-max/midnightgreen/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro-max/midnightgreen/00.jpg",
       "img/phones/apple-iphone-11-pro-max/midnightgreen/01.jpg",
@@ -1419,7 +1419,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "silver",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro-max/silver/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro-max/silver/00.jpg",
       "img/phones/apple-iphone-11-pro-max/silver/01.jpg",
@@ -1468,7 +1468,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "midnightgreen", "gold", "silver"],
     color: "spacegray",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-11-pro-max/spacegray/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-11-pro-max/spacegray/00.jpg",
       "img/phones/apple-iphone-11-pro-max/spacegray/01.jpg",
@@ -1517,7 +1517,7 @@ export const phones = [
     colorsAvailable: ["black", "rosegold", "gold", "silver"],
     color: "black",
     year: '2016',
-    image: '',
+    image: "img/phones/apple-iphone-7/black/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-7/black/00.jpg",
       "img/phones/apple-iphone-7/black/01.jpg",
@@ -1568,7 +1568,7 @@ export const phones = [
     colorsAvailable: ["black", "rosegold", "gold", "silver"],
     color: "gold",
     year: '2016',
-    image: '',
+    image: "img/phones/apple-iphone-7/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-7/gold/00.jpg",
       "img/phones/apple-iphone-7/gold/01.jpg",
@@ -1619,7 +1619,7 @@ export const phones = [
     colorsAvailable: ["black", "rosegold", "gold", "silver"],
     color: "rosegold",
     year: '2016',
-    image: '',
+    image: "img/phones/apple-iphone-7/rosegold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-7/rosegold/00.jpg",
       "img/phones/apple-iphone-7/rosegold/01.jpg",
@@ -1670,7 +1670,7 @@ export const phones = [
     colorsAvailable: ["black", "rosegold", "gold", "silver"],
     color: "silver",
     year: '2016',
-    image: '',
+    image: "img/phones/apple-iphone-7/silver/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-7/silver/00.jpg",
       "img/phones/apple-iphone-7/silver/01.jpg",
@@ -1721,7 +1721,7 @@ export const phones = [
     colorsAvailable: ["black", "rosegold", "gold", "silver"],
     color: "black",
     year: '2016',
-    image: '',
+    image: "img/phones/apple-iphone-7-plus/black/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-7-plus/black/00.jpg",
       "img/phones/apple-iphone-7-plus/black/01.jpg",
@@ -1772,7 +1772,7 @@ export const phones = [
     colorsAvailable: ["black", "rosegold", "gold", "silver"],
     color: "gold",
     year: '2016',
-    image: '',
+    image: "img/phones/apple-iphone-7-plus/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-7-plus/gold/00.jpg",
       "img/phones/apple-iphone-7-plus/gold/01.jpg",
@@ -1823,7 +1823,7 @@ export const phones = [
     colorsAvailable: ["black", "rosegold", "gold", "silver"],
     color: "rosegold",
     year: '2016',
-    image: '',
+    image: "img/phones/apple-iphone-7-plus/rosegold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-7-plus/rosegold/00.jpg",
       "img/phones/apple-iphone-7-plus/rosegold/01.jpg",
@@ -1874,7 +1874,7 @@ export const phones = [
     colorsAvailable: ["black", "rosegold", "gold", "silver"],
     color: "silver",
     year: '2016',
-    image: '',
+    image: "img/phones/apple-iphone-7-plus/silver/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-7-plus/silver/00.jpg",
       "img/phones/apple-iphone-7-plus/silver/01.jpg",
@@ -1925,7 +1925,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "gold",
     year: '2017',
-    image: '',
+    image: "img/phones/apple-iphone-8/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-8/gold/00.jpg",
       "img/phones/apple-iphone-8/gold/01.jpg",
@@ -1975,7 +1975,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "silver",
     year: '2017',
-    image: '',
+    image: "img/phones/apple-iphone-8/silver/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-8/silver/00.jpg",
       "img/phones/apple-iphone-8/silver/01.jpg",
@@ -2025,7 +2025,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "spacegray",
     year: '2017',
-    image: '',
+    image: "img/phones/apple-iphone-8/spacegray/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-8/spacegray/00.jpg",
       "img/phones/apple-iphone-8/spacegray/01.jpg",
@@ -2075,7 +2075,7 @@ export const phones = [
     colorsAvailable: ["white", "yellow", "red", "coral"],
     color: "coral",
     year: '2018',
-    image: '',
+    image: "img/phones/apple-iphone-xr/coral/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xr/coral/00.jpg",
       "img/phones/apple-iphone-xr/coral/01.jpg",
@@ -2126,7 +2126,7 @@ export const phones = [
     colorsAvailable: ["white", "yellow", "red", "coral"],
     color: "red",
     year: '2018',
-    image: '',
+    image: "img/phones/apple-iphone-xr/red/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xr/red/00.jpg",
       "img/phones/apple-iphone-xr/red/01.jpg",
@@ -2177,7 +2177,7 @@ export const phones = [
     colorsAvailable: ["white", "yellow", "red", "coral"],
     color: "white",
     year: '2018',
-    image: '',
+    image: "img/phones/apple-iphone-xr/white/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xr/white/00.jpg",
       "img/phones/apple-iphone-xr/white/01.jpg",
@@ -2228,7 +2228,7 @@ export const phones = [
     colorsAvailable: ["white", "yellow", "red", "coral"],
     color: "yellow",
     year: '2018',
-    image: '',
+    image: "img/phones/apple-iphone-xr/yellow/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xr/yellow/00.jpg",
       "img/phones/apple-iphone-xr/yellow/01.jpg",
@@ -2279,7 +2279,7 @@ export const phones = [
     colorsAvailable: ["white", "yellow", "red", "coral"],
     color: "coral",
     year: '2018',
-    image: '',
+    image: "img/phones/apple-iphone-xr/coral/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xr/coral/00.jpg",
       "img/phones/apple-iphone-xr/coral/01.jpg",
@@ -2328,7 +2328,7 @@ export const phones = [
     colorsAvailable: ["white", "yellow", "red", "coral"],
     color: "red",
     year: '2018',
-    image: '',
+    image: "img/phones/apple-iphone-xr/red/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xr/red/00.jpg",
       "img/phones/apple-iphone-xr/red/01.jpg",
@@ -2379,7 +2379,7 @@ export const phones = [
     colorsAvailable: ["white", "yellow", "red", "coral"],
     color: "white",
     year: '2018',
-    image: '',
+    image: "img/phones/apple-iphone-xr/white/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xr/white/00.jpg",
       "img/phones/apple-iphone-xr/white/01.jpg",
@@ -2430,7 +2430,7 @@ export const phones = [
     colorsAvailable: ["white", "yellow", "red", "coral"],
     color: "yellow",
     year: '2018',
-    image: '',
+    image: "img/phones/apple-iphone-xr/yellow/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xr/yellow/00.jpg",
       "img/phones/apple-iphone-xr/yellow/01.jpg",
@@ -2481,7 +2481,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold"],
     color: "gold",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs/gold/00.jpg",
       "img/phones/apple-iphone-xs/gold/01.jpg",
@@ -2532,7 +2532,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold"],
     color: "spacegray",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs/spacegray/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs/spacegray/00.jpg",
       "img/phones/apple-iphone-xs/spacegray/01.jpg",
@@ -2583,7 +2583,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold"],
     color: "gold",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs/gold/00.jpg",
       "img/phones/apple-iphone-xs/gold/01.jpg",
@@ -2634,7 +2634,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold"],
     color: "spacegray",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs/spacegray/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs/spacegray/00.jpg",
       "img/phones/apple-iphone-xs/spacegray/01.jpg",
@@ -2685,7 +2685,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "gold",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs-max/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs-max/gold/00.jpg",
       "img/phones/apple-iphone-xs-max/gold/01.jpg",
@@ -2736,7 +2736,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "silver",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs-max/silver/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs-max/silver/00.jpg",
       "img/phones/apple-iphone-xs-max/silver/01.jpg",
@@ -2787,7 +2787,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "spacegray",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs-max/spacegray/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs-max/spacegray/00.jpg",
       "img/phones/apple-iphone-xs-max/spacegray/01.jpg",
@@ -2838,7 +2838,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "gold",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs-max/gold/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs-max/gold/00.jpg",
       "img/phones/apple-iphone-xs-max/gold/01.jpg",
@@ -2889,7 +2889,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "silver",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs-max/silver/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs-max/silver/00.jpg",
       "img/phones/apple-iphone-xs-max/silver/01.jpg",
@@ -2940,7 +2940,7 @@ export const phones = [
     colorsAvailable: ["spacegray", "gold", "silver"],
     color: "spacegray",
     year: '2019',
-    image: '',
+    image: "img/phones/apple-iphone-xs-max/spacegray/00.jpg",
     additionalImages: [
       "img/phones/apple-iphone-xs-max/spacegray/00.jpg",
       "img/phones/apple-iphone-xs-max/spacegray/01.jpg",
