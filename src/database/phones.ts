@@ -34,7 +34,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-xs-64gb-silver-imt9g2fs-a/apple-iphone-xs-64gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -75,9 +75,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -113,7 +113,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -154,7 +154,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -195,7 +195,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-xs-64gb-silver-imt9g2fs-a/apple-iphone-xs-64gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -236,9 +236,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -274,7 +274,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -315,7 +315,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -356,7 +356,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -397,9 +397,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -435,7 +435,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -476,7 +476,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -517,7 +517,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-xs-64gb-silver-imt9g2fs-a/apple-iphone-xs-64gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -558,9 +558,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -596,7 +596,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -637,7 +637,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -678,7 +678,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-xs-64gb-silver-imt9g2fs-a/apple-iphone-xs-64gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -719,9 +719,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -757,7 +757,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -798,7 +798,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -839,7 +839,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -880,9 +880,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -918,7 +918,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -959,7 +959,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1000,7 +1000,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1041,7 +1041,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-xs-64gb-silver-imt9g2fs-a/apple-iphone-xs-64gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1082,9 +1082,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -1120,7 +1120,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1161,7 +1161,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1202,7 +1202,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-xs-64gb-silver-imt9g2fs-a/apple-iphone-xs-64gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1243,9 +1243,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -1281,7 +1281,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1322,7 +1322,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1363,7 +1363,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1404,9 +1404,9 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
-      'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a/apple-iphone-11-pro-max-64gb-gold-imt9g2fs-a-add1.png',
+      '',
     ],
   },
   {
@@ -1442,7 +1442,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1483,7 +1483,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-x-256gb-silver-imt9g2fs-a/apple-iphone-x-256gb-silver-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
@@ -1524,7 +1524,7 @@ export const phones = [
         description: 'iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with.',
       },
     ],
-    image: 'https://gryffindor.s3.eu-central-1.amazonaws.com/apple-iphone-11-128gb-Purple-imt9g2fs-a/apple-iphone-11-128gb-Purple-imt9g2fs-a-main.png',
+    image: '',
     additionalImages: [
       'link1',
       'link2',
