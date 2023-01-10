@@ -10,6 +10,7 @@ export const getAll = () => {
     name: phone.name,
     price: phone.price,
     discountPrice: phone.discountPrice,
+    color: phone.color,
     year: phone.year,
     screen: phone.specs.screen,
     memory: phone.specs.memory,
