@@ -21,10 +21,14 @@ export interface RequestWithResult extends Request {
   paginatedResult?: Result;
 }
 
-export const paginate = (model: Phone[]) => {
+export const paginate = (model: Phone[] | null) => {
   return (req: RequestWithResult, res: Response, next: NextFunction) => {
     try {
-      let { page = 1, limit = 8 } = req.query;
+      if (model === null) {
+        return res.status(404).send('Error!');
+      }
+
+      let { page = 1, limit = model.length } = req.query;
 
       page = Number(page);
       limit = Number(limit);
