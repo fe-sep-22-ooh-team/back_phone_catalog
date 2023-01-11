@@ -7,6 +7,715 @@ export const phones = [
     name: 'Apple iPhone 14 128GB Midnight',
     capacityAvailable: ['128GB', '256GB', '512GB'],
     price: '',
+    discountPrice: '1599',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'midnight',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/midnight/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/midnight/00.jpg',
+      'img/phones/apple-iphone-14/midnight/01.jpg',
+      'img/phones/apple-iphone-14/midnight/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '128GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-256gb-midnight',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 256GB Midnight',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1699',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'midnight',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/midnight/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/midnight/00.jpg',
+      'img/phones/apple-iphone-14/midnight/01.jpg',
+      'img/phones/apple-iphone-14/midnight/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '256GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-512gb-midnight',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 512GB Midnight',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1799',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'midnight',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/midnight/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/midnight/00.jpg',
+      'img/phones/apple-iphone-14/midnight/01.jpg',
+      'img/phones/apple-iphone-14/midnight/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '512GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-128gb-purple',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 128GB Purple',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1599',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'purple',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/purple/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/purple/00.jpg',
+      'img/phones/apple-iphone-14/purple/01.jpg',
+      'img/phones/apple-iphone-14/purple/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '128GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-256gb-purple',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 256GB Purple',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1699',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'purple',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/purple/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/purple/00.jpg',
+      'img/phones/apple-iphone-14/purple/01.jpg',
+      'img/phones/apple-iphone-14/purple/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '256GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-512gb-purple',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 512GB Purple',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1799',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'purple',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/purple/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/purple/00.jpg',
+      'img/phones/apple-iphone-14/purple/01.jpg',
+      'img/phones/apple-iphone-14/purple/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '512GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+
+  {
+    slug: 'apple-iphone-14-128gb-starlight',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 128GB Starlight',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1599',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'starlight',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/starlight/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/starlight/00.jpg',
+      'img/phones/apple-iphone-14/starlight/01.jpg',
+      'img/phones/apple-iphone-14/starlight/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '128GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-256gb-starlight',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 256GB Starlight',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1699',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'starlight',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/starlight/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/starlight/00.jpg',
+      'img/phones/apple-iphone-14/starlight/01.jpg',
+      'img/phones/apple-iphone-14/starlight/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '256GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-512gb-starlight',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 512GB Starlight',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1799',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'starlight',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/starlight/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/starlight/00.jpg',
+      'img/phones/apple-iphone-14/starlight/01.jpg',
+      'img/phones/apple-iphone-14/starlight/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '512GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+
+
+  {
+    slug: 'apple-iphone-14-128gb-red',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 128GB Red',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1599',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'red',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/red/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/red/00.jpg',
+      'img/phones/apple-iphone-14/red/01.jpg',
+      'img/phones/apple-iphone-14/red/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '128GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-256gb-red',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 256GB Red',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1699',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'red',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/red/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/red/00.jpg',
+      'img/phones/apple-iphone-14/red/01.jpg',
+      'img/phones/apple-iphone-14/red/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '256GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-512gb-red',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 512GB Red',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1799',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'red',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/red/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/red/00.jpg',
+      'img/phones/apple-iphone-14/red/01.jpg',
+      'img/phones/apple-iphone-14/red/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '512GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-128gb-blue',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 128GB Blue',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1599',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'blue',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/blue/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/blue/00.jpg',
+      'img/phones/apple-iphone-14/blue/01.jpg',
+      'img/phones/apple-iphone-14/blue/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '128GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-256gb-blue',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 256GB Blue',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1699',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'blue',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/blue/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/blue/00.jpg',
+      'img/phones/apple-iphone-14/blue/01.jpg',
+      'img/phones/apple-iphone-14/blue/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '256GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+  {
+    slug: 'apple-iphone-14-512gb-blue',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 512GB Blue',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
+    discountPrice: '1799',
+    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
+    color: 'blue',
+    year: '2022',
+    image: 'img/phones/apple-iphone-14/blue/00.jpg',
+    additionalImages: [
+      'img/phones/apple-iphone-14/blue/00.jpg',
+      'img/phones/apple-iphone-14/blue/01.jpg',
+      'img/phones/apple-iphone-14/blue/02.jpg',
+    ],
+    about: [
+      {
+        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
+        description: [
+          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
+        ],
+      },
+      {
+        header: 'Camera',
+        description: [
+          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
+        ],
+      },
+      {
+        header: 'Video',
+        description: [
+          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
+        ],
+      },
+    ],
+    specs: {
+      screen: "6.1' Super Retina XDR",
+      resolution: '2532x1170',
+      processor: 'Apple A16 Bionic',
+      ram: '4GB',
+      memory: '512GB',
+      camera: '12 Mp + 12 Mp',
+      zoom: 'Digital, 2x',
+      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
+    },
+  },
+
+  {
+    slug: 'apple-iphone-14-128gb-midnight',
+    namespaceId: 'apple-iphone-14',
+    name: 'Apple iPhone 14 128GB Midnight',
+    capacityAvailable: ['128GB', '256GB', '512GB'],
+    price: '',
     discountPrice: '1899',
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'midnight',
