@@ -54,14 +54,14 @@ export const phones = [
   {
     slug: 'apple-iphone-14-pro-512gb-gold',
     namespaceId: 'apple-iphone-14-pro',
-    name: 'Apple iPhone 14 512GB Gold',
+    name: 'Apple iPhone 14 Pro 512GB Gold',
     capacityAvailable: ['256GB', '512GB', '1TB'],
     price: '999',
     discountPrice: '',
     colorsAvailable: ['silver', 'space-black', 'gold', 'deep-purple'],
     color: 'gold',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/gold/00.jpg',
+    image: 'img/phones/apple-iphone-14-pro/gold/00.jpg',
     additionalImages: [
       'img/phones/apple-iphone-14-pro/gold/00.jpg',
       'img/phones/apple-iphone-14-pro/gold/01.jpg',
@@ -152,14 +152,14 @@ export const phones = [
   {
     slug: 'apple-iphone-14-pro-max-512gb-deep-purple',
     namespaceId: 'apple-iphone-14-pro-max',
-    name: 'Apple iPhone 14 512GB Gold',
+    name: 'Apple iPhone 14 Pro Max 512GB Deep purple',
     capacityAvailable: ['128', '256GB', '512GB', '1TB'],
     price: '1399',
     discountPrice: '',
     colorsAvailable: ['silver', 'space-black', 'gold', 'deep-purple'],
     color: 'deep-purple',
     year: '2022',
-    image: 'img/phones/apple-iphone-14-max/deep-purple/00.jpg',
+    image: 'img/phones/apple-iphone-14-pro-max/deep-purple/00.jpg',
     additionalImages: [
       'img/phones/apple-iphone-14-pro-max/deep-purple/00.jpg',
       'img/phones/apple-iphone-14-pro-max/deep-purple/01.jpg',
