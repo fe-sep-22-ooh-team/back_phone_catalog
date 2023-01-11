@@ -84,7 +84,7 @@ export const paginate = (model: Phone[] | null) => {
         };
       }
 
-      result.results = sortPhones(sortBy, model.slice(startIndex, endIndex));
+      result.results = sortPhones(sortBy, model).slice(startIndex, endIndex);
 
       result.totalPages = Math.ceil(count / limit);
       result.currentPage = page;
