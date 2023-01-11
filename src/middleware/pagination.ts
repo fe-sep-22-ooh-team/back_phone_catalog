@@ -22,22 +22,20 @@ export interface RequestWithResult extends Request {
 }
 
 const sortPhones = (sortType: string, phones: Phone[]) => {
-  if (sortType !== 'default') {
-    phones.sort((phoneOne, phoneTwo) => {
-      switch (true) {
-      case sortType.includes('Age'):
-        return +phoneOne.year - +phoneTwo.year;
+  phones.sort((phoneOne, phoneTwo) => {
+    switch (true) {
+    case sortType.includes('Age'):
+      return +phoneOne.year - +phoneTwo.year;
 
-      case sortType.includes('Price'):
-        return +phoneOne.price - +phoneTwo.price;
+    case sortType.includes('Price'):
+      return +phoneOne.price - +phoneTwo.price;
 
-      case sortType.includes('Name'):
-        return phoneOne.name.localeCompare(phoneTwo.name);
-      default:
-        return 0;
-      }
-    });
-  }
+    case sortType.includes('Name'):
+      return phoneOne.name.localeCompare(phoneTwo.name);
+    default:
+      return +phoneOne.year - +phoneTwo.year;
+    }
+  });
 
   if (sortType.includes('desc')) {
     phones.reverse();
