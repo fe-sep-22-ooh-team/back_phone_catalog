@@ -33,7 +33,7 @@ const sortPhones = (sortType: string, phones: Phone[]) => {
     case sortType.includes('Name'):
       return phoneOne.name.localeCompare(phoneTwo.name);
     default:
-      return +phoneOne.year - +phoneTwo.year;
+      return +phoneOne.year + +phoneTwo.year;
     }
   });
 
