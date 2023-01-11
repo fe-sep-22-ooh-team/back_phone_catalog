@@ -28,7 +28,10 @@ const sortPhones = (sortType: string, phones: Phone[]) => {
       return +phoneOne.year - +phoneTwo.year;
 
     case sortType.includes('Price'):
-      return +phoneOne.price - +phoneTwo.price;
+      const onePrice = +phoneOne.price || +phoneOne.discountPrice;
+      const twoPrice = +phoneTwo.price || +phoneTwo.discountPrice;
+
+      return onePrice - twoPrice;
 
     case sortType.includes('Name'):
       return phoneOne.name.localeCompare(phoneTwo.name);
