@@ -40,7 +40,7 @@ const sortPhones = (sortType: string, phones: Phone[]) => {
   }
 
   if (sortType.includes('desc')) {
-    return phones.reverse();
+    phones.reverse();
   }
 
   return phones;
@@ -53,15 +53,15 @@ export const paginate = (model: Phone[] | null) => {
         return res.status(404).send('Error!');
       }
 
-      const {
-        pageParam = 1,
-        limitParam = model.length,
-        sortByParam = 'default',
+      let {
+        page = 1,
+        limit = model.length,
+        sortBy = 'default',
       } = req.query;
 
-      const page = Number(pageParam);
-      const limit = Number(limitParam);
-      const sortBy = sortByParam + '';
+      page = Number(page);
+      limit = Number(limit);
+      sortBy = sortBy + '';
 
       const startIndex = (page - 1) * limit;
       const endIndex = page * limit;
