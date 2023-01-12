@@ -1,6 +1,14 @@
 import { Response } from 'express';
+import { Phone } from 'src/types/Phone';
+import { RarePhone } from 'src/types/RareDataPhone';
 import { RequestWithResult } from '../middleware/pagination';
 import { newPhones, getDiscounted, getById } from '../services/goods';
+import * as goodsService from '../services/goods';
+
+interface GetOneResult {
+  phoneInfo?: RarePhone;
+  phones?: Phone[]
+}
 
 export const getAll = (req: RequestWithResult, res: Response) => {
   res.json(req.paginatedResult);
@@ -23,7 +31,16 @@ export const getOne = (req: any, res: Response) => {
   const splitedUrl = url.split('/');
   const phoneId = splitedUrl[splitedUrl.length - 1];
 
-  const phoneInfo = getById(phoneId);
+  const [ company, name, model ] = phoneId.split('-');
+  const namespaceId = `${company}-${name}-${model}`;
 
-  res.json(phoneInfo);
+  const result: GetOneResult = {};
+
+  result.phoneInfo = getById(phoneId);
+
+  result.phones = goodsService
+    .getAll()
+    .filter(phone => phone.slug.includes(namespaceId));
+
+  res.json(result);
 };
