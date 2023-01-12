@@ -18,3 +18,13 @@ export const getAll = () => {
     image: phone.image,
   }));
 };
+
+export const newPhones = () => {
+  return getAll().filter(phone => !phone.price);
+};
+
+export const getDiscounted = () => {
+  return getAll().sort((firstPhone, secontPhone) =>
+    ((+firstPhone.price - +firstPhone.discountPrice) * -1)
+    - ((+secontPhone.price - +secontPhone.discountPrice) * -1));
+};
