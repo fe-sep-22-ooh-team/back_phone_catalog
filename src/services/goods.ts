@@ -33,3 +33,7 @@ export const getDiscounted = () => {
     ((+firstPhone.price - +firstPhone.discountPrice) * -1)
     - ((+secontPhone.price - +secontPhone.discountPrice) * -1));
 };
+
+export const getById = (id: string) => {
+  return phones.find(phone => phone.slug === id);
+};
