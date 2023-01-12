@@ -20,7 +20,12 @@ export const getAll = () => {
 };
 
 export const newPhones = () => {
-  return getAll().filter(phone => !phone.price);
+  const filteredPhones = getAll().filter(phone => !phone.price);
+
+  filteredPhones.sort((firstPhone, secontPhone) => +secontPhone.discountPrice
+  - +firstPhone.discountPrice);
+
+  return filteredPhones;
 };
 
 export const getDiscounted = () => {
