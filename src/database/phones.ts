@@ -711,56 +711,6 @@ export const phones = [
   },
 
   {
-    slug: 'apple-iphone-14-128gb-midnight',
-    namespaceId: 'apple-iphone-14',
-    name: 'Apple iPhone 14 128GB Midnight',
-    capacityAvailable: ['128GB', '256GB', '512GB'],
-    price: '',
-    discountPrice: '1899',
-    colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
-    color: 'midnight',
-    year: '2022',
-    image: 'img/phones/apple-iphone-11/black/00.jpg',
-    additionalImages: [
-      'img/phones/apple-iphone-14/midnight/00.jpg',
-      'img/phones/apple-iphone-14/midnight/01.jpg',
-      'img/phones/apple-iphone-14/midnight/02.jpg',
-      'img/phones/apple-iphone-14/midnight/03.jpg',
-      'img/phones/apple-iphone-14/midnight/04.jpg',
-    ],
-    about: [
-      {
-        header: 'Meet iPhone 14 and supersized iPhone 14 Plus',
-        description: [
-          'With groundbreaking safety features. Longer battery life than ever. And even more spectacular low-light shots. All in five great colors.',
-        ],
-      },
-      {
-        header: 'Camera',
-        description: [
-          'A major leap in low-light photos. An enhanced Main camera and improved image processing let you capture even more sensational shots in all kinds of light — especially low light.',
-        ],
-      },
-      {
-        header: 'Video',
-        description: [
-          'Smoother takes without the shakes. Whether you’re filming while hiking up a rocky trail or chasing your kids through the park, try Action mode for smooth handheld videos.',
-        ],
-      },
-    ],
-    specs: {
-      screen: "6.1' Super Retina XDR",
-      resolution: '2532x1170',
-      processor: 'Apple A16 Bionic',
-      ram: '4GB',
-      memory: '128GB',
-      camera: '12 Mp + 12 Mp',
-      zoom: 'Digital, 2x',
-      cell: ['GPRS', 'EDGE', 'WCDMA', 'UMTS', 'HSPA', 'LTE', '5G'],
-    },
-  },
-
-  {
     slug: 'apple-iphone-14-pro-512gb-gold',
     namespaceId: 'apple-iphone-14-pro',
     name: 'Apple iPhone 14 Pro 512GB Gold',
