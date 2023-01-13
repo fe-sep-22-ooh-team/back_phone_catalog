@@ -1,6 +1,7 @@
 /* eslint-disable max-len */
 
-{
+export const phones = [
+ {
     slug: 'apple-iphone-14-128gb-midnight',
     namespaceId: 'apple-iphone-14',
     name: 'Apple iPhone 14 128GB Midnight',
