@@ -1,7 +1,6 @@
 /* eslint-disable max-len */
 
-export const phones = [
-  {
+{
     slug: 'apple-iphone-14-128gb-midnight',
     namespaceId: 'apple-iphone-14',
     name: 'Apple iPhone 14 128GB Midnight',
@@ -11,11 +10,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'midnight',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/midnight/00.jpg',
+    image: 'img/phones/apple-iphone-14/midnight/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/midnight/00.jpg',
-      'img/phones/apple-iphone-14/midnight/01.jpg',
-      'img/phones/apple-iphone-14/midnight/02.jpg',
+      'img/phones/apple-iphone-14/midnight/00.jfif',
+      'img/phones/apple-iphone-14/midnight/01.jfif',
+      'img/phones/apple-iphone-14/midnight/02.jfif',
     ],
     about: [
       {
@@ -58,11 +57,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'midnight',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/midnight/00.jpg',
+    image: 'img/phones/apple-iphone-14/midnight/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/midnight/00.jpg',
-      'img/phones/apple-iphone-14/midnight/01.jpg',
-      'img/phones/apple-iphone-14/midnight/02.jpg',
+      'img/phones/apple-iphone-14/midnight/00.jfif',
+      'img/phones/apple-iphone-14/midnight/01.jfif',
+      'img/phones/apple-iphone-14/midnight/02.jfif',
     ],
     about: [
       {
@@ -105,11 +104,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'midnight',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/midnight/00.jpg',
+    image: 'img/phones/apple-iphone-14/midnight/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/midnight/00.jpg',
-      'img/phones/apple-iphone-14/midnight/01.jpg',
-      'img/phones/apple-iphone-14/midnight/02.jpg',
+      'img/phones/apple-iphone-14/midnight/00.jfif',
+      'img/phones/apple-iphone-14/midnight/01.jfif',
+      'img/phones/apple-iphone-14/midnight/02.jfif',
     ],
     about: [
       {
@@ -152,11 +151,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'purple',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/purple/00.jpg',
+    image: 'img/phones/apple-iphone-14/purple/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/purple/00.jpg',
-      'img/phones/apple-iphone-14/purple/01.jpg',
-      'img/phones/apple-iphone-14/purple/02.jpg',
+      'img/phones/apple-iphone-14/purple/00.jfif',
+      'img/phones/apple-iphone-14/purple/01.jfif',
+      'img/phones/apple-iphone-14/purple/02.jfif',
     ],
     about: [
       {
@@ -199,11 +198,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'purple',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/purple/00.jpg',
+    image: 'img/phones/apple-iphone-14/purple/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/purple/00.jpg',
-      'img/phones/apple-iphone-14/purple/01.jpg',
-      'img/phones/apple-iphone-14/purple/02.jpg',
+      'img/phones/apple-iphone-14/purple/00.jfif',
+      'img/phones/apple-iphone-14/purple/01.jfif',
+      'img/phones/apple-iphone-14/purple/02.jfif',
     ],
     about: [
       {
@@ -246,11 +245,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'purple',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/purple/00.jpg',
+    image: 'img/phones/apple-iphone-14/purple/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/purple/00.jpg',
-      'img/phones/apple-iphone-14/purple/01.jpg',
-      'img/phones/apple-iphone-14/purple/02.jpg',
+      'img/phones/apple-iphone-14/purple/00.jfif',
+      'img/phones/apple-iphone-14/purple/01.jfif',
+      'img/phones/apple-iphone-14/purple/02.jfif',
     ],
     about: [
       {
@@ -294,11 +293,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'starlight',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/starlight/00.jpg',
+    image: 'img/phones/apple-iphone-14/starlight/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/starlight/00.jpg',
-      'img/phones/apple-iphone-14/starlight/01.jpg',
-      'img/phones/apple-iphone-14/starlight/02.jpg',
+      'img/phones/apple-iphone-14/starlight/00.jfif',
+      'img/phones/apple-iphone-14/starlight/01.jfif',
+      'img/phones/apple-iphone-14/starlight/02.jfif',
     ],
     about: [
       {
@@ -341,11 +340,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'starlight',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/starlight/00.jpg',
+    image: 'img/phones/apple-iphone-14/starlight/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/starlight/00.jpg',
-      'img/phones/apple-iphone-14/starlight/01.jpg',
-      'img/phones/apple-iphone-14/starlight/02.jpg',
+      'img/phones/apple-iphone-14/starlight/00.jfif',
+      'img/phones/apple-iphone-14/starlight/01.jfif',
+      'img/phones/apple-iphone-14/starlight/02.jfif',
     ],
     about: [
       {
@@ -388,11 +387,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'starlight',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/starlight/00.jpg',
+    image: 'img/phones/apple-iphone-14/starlight/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/starlight/00.jpg',
-      'img/phones/apple-iphone-14/starlight/01.jpg',
-      'img/phones/apple-iphone-14/starlight/02.jpg',
+      'img/phones/apple-iphone-14/starlight/00.jfif',
+      'img/phones/apple-iphone-14/starlight/01.jfif',
+      'img/phones/apple-iphone-14/starlight/02.jfif',
     ],
     about: [
       {
@@ -437,11 +436,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'red',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/red/00.jpg',
+    image: 'img/phones/apple-iphone-14/red/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/red/00.jpg',
-      'img/phones/apple-iphone-14/red/01.jpg',
-      'img/phones/apple-iphone-14/red/02.jpg',
+      'img/phones/apple-iphone-14/red/00.jfif',
+      'img/phones/apple-iphone-14/red/01.jfif',
+      'img/phones/apple-iphone-14/red/02.jfif',
     ],
     about: [
       {
@@ -484,11 +483,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'red',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/red/00.jpg',
+    image: 'img/phones/apple-iphone-14/red/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/red/00.jpg',
-      'img/phones/apple-iphone-14/red/01.jpg',
-      'img/phones/apple-iphone-14/red/02.jpg',
+      'img/phones/apple-iphone-14/red/00.jfif',
+      'img/phones/apple-iphone-14/red/01.jfif',
+      'img/phones/apple-iphone-14/red/02.jfif',
     ],
     about: [
       {
@@ -531,11 +530,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'red',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/red/00.jpg',
+    image: 'img/phones/apple-iphone-14/red/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/red/00.jpg',
-      'img/phones/apple-iphone-14/red/01.jpg',
-      'img/phones/apple-iphone-14/red/02.jpg',
+      'img/phones/apple-iphone-14/red/00.jfif',
+      'img/phones/apple-iphone-14/red/01.jfif',
+      'img/phones/apple-iphone-14/red/02.jfif',
     ],
     about: [
       {
@@ -578,11 +577,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'blue',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/blue/00.jpg',
+    image: 'img/phones/apple-iphone-14/blue/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/blue/00.jpg',
-      'img/phones/apple-iphone-14/blue/01.jpg',
-      'img/phones/apple-iphone-14/blue/02.jpg',
+      'img/phones/apple-iphone-14/blue/00.jfif',
+      'img/phones/apple-iphone-14/blue/01.jfif',
+      'img/phones/apple-iphone-14/blue/02.jfif',
     ],
     about: [
       {
@@ -625,11 +624,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'blue',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/blue/00.jpg',
+    image: 'img/phones/apple-iphone-14/blue/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/blue/00.jpg',
-      'img/phones/apple-iphone-14/blue/01.jpg',
-      'img/phones/apple-iphone-14/blue/02.jpg',
+      'img/phones/apple-iphone-14/blue/00.jfif',
+      'img/phones/apple-iphone-14/blue/01.jfif',
+      'img/phones/apple-iphone-14/blue/02.jfif',
     ],
     about: [
       {
@@ -672,11 +671,11 @@ export const phones = [
     colorsAvailable: ['midnight', 'purple', 'starlight', 'red', 'blue'],
     color: 'blue',
     year: '2022',
-    image: 'img/phones/apple-iphone-14/blue/00.jpg',
+    image: 'img/phones/apple-iphone-14/blue/00.jfif',
     additionalImages: [
-      'img/phones/apple-iphone-14/blue/00.jpg',
-      'img/phones/apple-iphone-14/blue/01.jpg',
-      'img/phones/apple-iphone-14/blue/02.jpg',
+      'img/phones/apple-iphone-14/blue/00.jfif',
+      'img/phones/apple-iphone-14/blue/01.jfif',
+      'img/phones/apple-iphone-14/blue/02.jfif',
     ],
     about: [
       {
