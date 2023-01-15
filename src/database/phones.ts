@@ -809,14 +809,14 @@ export const phones = [
   },
 
   {
-    slug: 'apple-iphone-14-pro-max-512gb-deep-purple',
+    slug: 'apple-iphone-14-pro-max-512gb-deeppurple',
     namespaceId: 'apple-iphone-14-pro-max',
     name: 'Apple iPhone 14 Pro Max 512GB Deep purple',
     capacityAvailable: ['512GB'],
     price: '',
     discountPrice: '2199',
-    colorsAvailable: ['deep-purple'],
-    color: 'deep-purple',
+    colorsAvailable: ['deeppurple'],
+    color: 'deeppurple',
     year: '2022',
     image: 'img/phones/apple-iphone-14-pro-max/deep-purple/00.jpg',
     additionalImages: [
