@@ -2,7 +2,7 @@
 
 [Server DEMO](https://ooh-team.netlify.app/.netlify/functions/server)
 
-## API Documentation\
+## API Documentation
 \
 GET to /products\
 *Response: {*\
@@ -19,13 +19,13 @@ GET to /products/getNew\
 *Response: sorted phones[] by year .*\
 \
 GET to /products/getDiscounted\
-*Response: phones[] sorted by the difference between the price and the discounted price.*\
+*Response: phones[] sorted by the difference between the price and the discounted price.*
 
 GET to /products/:goodId\
  *ResponseFromAPIOne {*\
   *phoneInfo: allInfoAboutPhone;*\
   *phones: Phone[];*\
-*}*\
+*}*
 
 ## Available Scripts
 
