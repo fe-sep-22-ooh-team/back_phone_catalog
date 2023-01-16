@@ -44,3 +44,7 @@ export const getOne = (req: any, res: Response) => {
 
   res.json(result);
 };
+
+export const wrongRouteMassage = (req: any, res: Response) => {
+  res.json('Hi! This is main route. Please, read documentation from README.md');
+};

@@ -12,5 +12,6 @@ router.get('/products', paginate(phones), goodController.getAll);
 router.get('/products/getNew', goodController.getNewGoods);
 router.get('/products/getDiscounted', goodController.getDiscountedGoods);
 router.get('/products/:goodId', goodController.getOne);
+router.get('/', goodController.wrongRouteMassage);
 // router.post('/', goodController.add);
 // router.delete('/:goodId', goodController.remove);
