@@ -46,5 +46,5 @@ export const getOne = (req: any, res: Response) => {
 };
 
 export const wrongRouteMassage = (req: any, res: Response) => {
-  res.json('Hi! This is main route. Please, read documentation from README.md');
+  res.json('Hi! This is the main route. Please, read a readme.md to find out more details');
 };
